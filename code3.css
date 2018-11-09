@@ -1,0 +1,62 @@
+html {
+	background-color: #fefefe;
+}
+
+body {
+	font-family: Open Sans, Arial ;
+	color: #454545;
+	font-size: 16px;
+	margin: 2em auto;
+	max-width: 800px;
+	padding: 1em;
+	line-height: 1.4;
+	text-align: justify;
+}
+
+div.asidepositioning div.vinstrimyndin {
+	float: left;
+	width: 40%;
+	overflow: hidden;
+	margin-right: 1em;
+}
+
+div.asidepositioning div.vinstrimyndin p.context {
+	font-style: .7em;
+}
+
+div.asidepositioning div.vinstriritun {
+	float: left;
+	width: 55%;
+}
+
+div.satire{
+	font-family: Open Sans,Arial;
+	color: #454545;
+	font-size: 16px;
+	line-height: 1.4;
+	text-align: left;
+}
+
+div.Epilogue{
+	font-family: Open Sans, Arial ;
+	color: #177a01;
+	font-size: 16px;
+	line-height: 1.4;
+	text-align: justify;
+}
+
+div.Legal{
+	font-family: DejaVu Sans Mono, monospace;
+	color: #79020b;
+	font-size: 16px;
+	line-height: 1.4;
+	text-align: center;
+
+}
+
+img.meh{
+	height: 4em;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
